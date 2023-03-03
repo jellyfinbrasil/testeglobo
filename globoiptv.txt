@@ -1,0 +1,10 @@
+#EXTINF:-1 tvg-ID="GLOBO MINAS GERAIS" tvg-name="GLOBO MINAS GERAIS" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS GLOBO",GLOBO MINAS GERAIS
+http://185.150.190.225:16263/
+#EXTINF:-1 tvg-ID="GLOBO SÃO PAULO" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS GLOBO",GLOBO SÃO PAULO
+http://209.222.97.92:16275/
+#EXTINF:-1 tvg-ID="GLOBO BAHIA" tvg-name="GLOBO BAHIA" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS GLOBO",GLOBO BAHIA
+http://199.127.60.253:14004
+#EXTINF:-1 tvg-ID="GLOBO BRASÍLIA" tvg-name="GLOBO BRASÍLIA" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS GLOBO",GLOBO BRASÍLIA
+http://89.187.179.15:14853/
+#EXTINF:-1 tvg-ID="GLOBO RIO DE JANEIRO" tvg-name="GLOBO RIO DE JANEIRO" tvg-logo="https://1.bp.blogspot.com/-kvKDW0ssDKA/XuZtQDA9CDI/AAAAAAAAGSQ/tOanK92ir5oAlUm2czxh5hhdIhNOtkgSgCLcBGAsYHQ/s1600/globo.png" group-title="CANAIS GLOBO",GLOBO RIO DE JANEIRO
+http://021stream.xyz:8080/unibr/ZXeLtdb2cPs9/276498
